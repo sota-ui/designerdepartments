@@ -119,7 +119,7 @@ html{
 
 #ABOUT{
    min-height: 80vh;
-    background-image: url(wall0.png);
+    background-image: url(wall.png);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -365,3 +365,4 @@ html{
     }
     
 }
+
